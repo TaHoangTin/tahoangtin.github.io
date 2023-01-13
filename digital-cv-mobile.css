@@ -1,0 +1,10 @@
+@media (max-width: 550px) {
+  .contain {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 700px 570px 700px 400px 1200px;
+  }
+  .movetimeline {
+    margin-right: 0px;
+  }
+}
